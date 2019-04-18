@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://logeethae.oliverwesterwinter.com/sitemap.xml
